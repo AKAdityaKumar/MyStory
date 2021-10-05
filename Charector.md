@@ -8,3 +8,7 @@ Hashirama
 Minato
 Kushina
 Shikamaru
+Obito
+Rin
+Itachi
+Tobi
